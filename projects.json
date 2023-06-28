@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Web Chat App",
+    "description": "It is a web app built using React, Firebase, Tailwind CSS, and React Hooks. This app allows users to register and login, and once logged in, they can view all registered users and send messages to any registered user.",
+    "link": "https://github.com/bhuwanjungthapa/Chat-Web-App",
+    "live": "https://bhuwanjungthapa-chatapp.netlify.app/"
+  },
+  {
+    "title": "AutoWord Detection System",
+    "description": "This repository contains a MERN (MongoDB, Express, React, and Node.js) stack-based auto word suggestion and completion system. The application predicts and suggests words based on the user's partial input and the trained model. As the user interacts with the system, the word database is updated to improve the prediction accuracy.",
+    "link": "https://github.com/bhuwanjungthapa/AutoWord-Detection-System"
+  },
+  {
+    "title": "Single Vendor Ecommerce Laravel",
+    "description": "Ecommerce Web application with a single admin to add and remove items using Laravel",
+    "link": "https://github.com/bhuwanjungthapa/single-vendor-ecommerce-laravel"
+  }
+]
